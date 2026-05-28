@@ -17,7 +17,16 @@
         "id": "item-1779930848232-c7q1oi",
         "marqueeText": "물품대여한 학생 목록과 반납 여부를 확인할 수 있습니다. ",
         "linkType": "modal",
-        "modalContent": "냉온 찜질팩이나 휠체어 등 빌려 간 후 \n대여여부와 반납 여부를 쉽게 알 수 있어\n대여한 물품의 관리가 쉽습니다.\n\n처치 처방에서 물품대여를 클릭하면  \n대여할 물품에 대해 기록할 뿐 아니라 \n대여 물품을 등록할 수 있습니다. ",
+        "modalContent": "<p>냉온 찜질팩이나 휠체어 등 빌려 간 후 </p><p><strong style=\"color: rgb(153, 51, 255);\">대여여부와 반납 여부</strong>를 쉽게 알 수 있어 </p><p>대여한 물품의 관리가 쉽습니다.</p><p><br></p><p>처치 처방에서 <span style=\"color: rgb(230, 0, 0);\">물품대여</span>를 클릭하면 </p><p>대여할 물품에 대해 기록할 뿐 아니라 </p><p>대여 물품을 등록할 수 있습니다.</p>",
+        "linkUrl": "",
+        "linkLabel": "상세보기",
+        "checked": true
+      },
+      {
+        "id": "item-1779993717499-gxp5pd",
+        "marqueeText": "",
+        "linkType": "modal",
+        "modalContent": "",
         "linkUrl": "",
         "linkLabel": "상세보기",
         "checked": true
