@@ -25,6 +25,19 @@
       "files": [],
       "registDt": "2026-11-25T08:03:48",
       "updateDt": "2026-11-25T08:03:48"
+    },
+    {
+      "oid": 1795649818179,
+      "title": "자기실적평가 자료 및 학부모 상담 메뉴추가",
+      "content": "<p dir=\"auto\">안녕하세요?</p>\n<p dir=\"auto\">학교에 근무할 때 연말마다 자기실적평가서를 쓰면서 속상했습니다. <br>일은 많이 했는데 평가서 기준이 일반 교사 기준이라 써낼 것이 별로 없었기 때문입니다.</p>\n<p dir=\"auto\">얼마 전 한 선생님께서 <br>교과교사의 수업일수 대신 <span style=\"color: #e03e2d;\">'보건일지 기록 일수'로 정량 평가를 할 수 있게</span> 칸을 만들어 달라고 요청하셨고, <br>저도 함께 고민하게 되었습니다. <br>어떻게 하면 <strong><span style=\"color: #e03e2d;\">보건 선생님들의 업무를 정량화할 수 있을까?</span></strong> <br>그 답을 보건일지에 녹여내고 싶었습니다.</p>\n<p dir=\"auto\">그래서 먼저 <strong><span class=\"font-semibold\" style=\"color: #e03e2d;\" data-streamdown=\"strong\">검색/집계</span></strong> 하위 메뉴에 <span class=\"font-semibold\" data-streamdown=\"strong\">'<strong><span style=\"color: #e03e2d;\">자기실적평가 자료'</span></strong></span><strong><span style=\"color: #e03e2d;\"> 메뉴</span></strong>를 만들어 기본 틀을 마련했습니다. <br>지금까지 기록한 보건일지를 바탕으로 실적을 한눈에 볼 수 있습니다.</p>\n<p dir=\"auto\">학부모 상담도 정량화할 수 있도록, <br>처치란의 학생 이름을 누르면 나오는 <strong><span style=\"color: #e03e2d;\">퀵메뉴에 <br><span class=\"font-semibold\" data-streamdown=\"strong\">'학부모 상담'</span> 버튼을 추가</span></strong>했습니다. <br>119 신고 후 연락이나 <br>건강기초조사 후 상담도 모두 실적에 넣을 수 있습니다.</p>\n<p dir=\"auto\">아직은 아주 기본적인 틀입니다. <br>추가 작업은 시간이 날 때마다 이어가겠습니다. <br>보건수업, 가정통신문, 보건신문 발행 등도 DB로 만들어 실적에 넣을 생각입니다.</p>\n<p dir=\"auto\">선생님들께서 의견을 주시면, <br>천사일지에 있는 모든 자료를 선생님들의 실적에 녹여낼 수 있도록 작업하겠습니다.</p>\n<p dir=\"auto\">오늘도 선생님들의 하루를 응원합니다.<br>감사합니다.</p>\n<p dir=\"auto\">힐링샘 천사일지 관리자 김애숙 드림</p>",
+      "flag": "1",
+      "popupYn": "N",
+      "popupStartAt": "2026-11-26T08:36",
+      "popupEndAt": "2026-12-03T08:36",
+      "popupPriority": 1,
+      "files": [],
+      "registDt": "2026-11-26T08:36:58",
+      "updateDt": "2026-11-26T08:36:58"
     }
   ]
 }
